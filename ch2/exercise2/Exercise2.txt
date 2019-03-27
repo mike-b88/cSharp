@@ -1,0 +1,108 @@
+//output the number of bytes in memory that each of the following number
+//types use and the minimum and maximum possible values they can have:
+//	sbyte  byte   short  ushort  int  uint  long  
+//  ulong  float  double  decimal
+
+using System;
+using static System.Console;
+
+namespace Exercise2b
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            WriteLine("Type\t\t Bytes \t\t\t Min \t\t\t\t Max");
+            WriteLine("-------------------------------------------------------------------------------------");
+            WriteLine($"sbyte \t\t {sizeof(sbyte)} \t\t\t{sbyte.MinValue:N0} \t\t\t\t{sbyte.MaxValue:N0}  ");
+            WriteLine($"byte \t\t {sizeof(byte)} \t\t\t{byte.MinValue:N0} \t\t\t\t{byte.MaxValue:N0}     ");
+            WriteLine($"short \t\t {sizeof(short)} \t\t\t{short.MinValue} \t\t\t\t{short.MaxValue}     ");
+            WriteLine($"ushort \t\t {sizeof(ushort)} \t\t\t{ushort.MinValue} \t\t\t\t{ushort.MaxValue}     ");
+            WriteLine($"int \t\t {sizeof(int)} \t\t\t{int.MinValue} \t\t\t{int.MaxValue}     ");
+            WriteLine($"uint \t\t {sizeof(uint)} \t\t\t{uint.MinValue} \t\t\t\t{uint.MaxValue}     ");
+            WriteLine($"long \t\t {sizeof(long)} \t\t\t{long.MinValue} \t\t{long.MaxValue}     ");
+            WriteLine($"ulong \t\t {sizeof(ulong)} \t\t\t{ulong.MinValue} \t\t\t\t{ulong.MaxValue}     ");
+            WriteLine($"float \t\t {sizeof(float)} \t\t\t{float.MinValue:E7} \t\t{float.MaxValue:E7}     ");
+            WriteLine($"double \t\t {sizeof(double)} \t\t\t{double.MinValue:E14} \t\t{double.MaxValue:E14}     ");
+            WriteLine($"decimal \t {sizeof(decimal)} \t\t{decimal.MinValue} \t{decimal.MaxValue}     ");
+        }
+
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+	Attempted to use an Array to go through all types, but cannot get it to work as of now
+
+using System;
+using static System.Console;
+
+namespace Exercise2
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			string list[] = "sbyte", "byte", "short", "ushort";
+			foreach (string arg in list)
+			{
+				WriteLine($"{arg} uses {sizeof({arg})} bytes and can store numbers in the range {{arg}.MinValue:N0} to {{arg}.MaxValue:N0},");
+			}
+			
+		}
+	}
+}
+
+*/
+
+/*
+using System;
+using static System.Console;
+
+namespace Exercise2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+         //   string[] list = { "sbyte", "byte", "short", "ushort" };
+            object[] list = { "System.SByte", "System.Byte", "System.Int16", "System.Int16" };
+
+            foreach (string arg in list)
+            {
+                // Type type = Type.GetType(arg);
+                
+                //Type arg1 = Type.GetType(arg);
+                  WriteLine($"The Type is {arg}");
+             //  WriteLine($"{arg} uses {sizeof(<arg>)} bytes and can store numbers in the range {arg.MinValue:N0} to {arg.MaxValue:N0},");
+            }
+
+        }
+    }
+}
+*/
