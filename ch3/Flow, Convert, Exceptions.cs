@@ -327,14 +327,23 @@
 			https://docs.microsoft.com/en-us/dotnet/api/system.idisposable.dispose?view=netframework-4.8
 			https://docs.microsoft.com/en-us/dotnet/api/system.idisposable?view=netframework-4.8
 // 
-//	--  
+//	--  Many types, including FileStream and StreamWriter, provide a Close method
+//     as well as a Dispose method.
 //
 //
 //
+//		*******************************
+//		**	Checking For Overflow   *** 
+//		*******************************
+// The checked statement - tells .NET to throw an exception when an overflow happens 
+// instead of allowing it happen silently 
 //
 //
 //
-//
+
+//		******* Go to definition   *******
+//    *************************************
+//  Can give useful info when using unfamiliar methods etc,  such as what exceptions to catch..
 //
 //
 //
