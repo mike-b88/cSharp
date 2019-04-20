@@ -1,0 +1,4 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch2\exMicDocs\obj\Debug\netcoreapp2.1\exMicDocs.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch2\exMicDocs\obj\Debug\netcoreapp2.1\exMicDocs.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch2\exMicDocs\obj\Debug\netcoreapp2.1\exMicDocs.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch2\exMicDocs\obj\Debug\netcoreapp2.1\exMicDocs.AssemblyInfo.cs

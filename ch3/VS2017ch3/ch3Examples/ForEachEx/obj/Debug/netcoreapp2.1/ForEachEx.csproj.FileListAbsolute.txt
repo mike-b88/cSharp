@@ -1,0 +1,11 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Debug\netcoreapp2.1\ForEachEx.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Debug\netcoreapp2.1\ForEachEx.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Debug\netcoreapp2.1\ForEachEx.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Debug\netcoreapp2.1\ForEachEx.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Debug\netcoreapp2.1\ForEachEx.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Debug\netcoreapp2.1\ForEachEx.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Debug\netcoreapp2.1\ForEachEx.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Debug\netcoreapp2.1\ForEachEx.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Debug\netcoreapp2.1\ForEachEx.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Debug\netcoreapp2.1\ForEachEx.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Debug\netcoreapp2.1\ForEachEx.pdb

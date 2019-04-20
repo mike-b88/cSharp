@@ -1,0 +1,11 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Debug\netcoreapp2.1\ch3Examples.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Debug\netcoreapp2.1\ch3Examples.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Debug\netcoreapp2.1\ch3Examples.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Debug\netcoreapp2.1\ch3Examples.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Debug\netcoreapp2.1\ch3Examples.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\ch3Examples.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\ch3Examples.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\ch3Examples.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\ch3Examples.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\ch3Examples.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\ch3Examples.pdb

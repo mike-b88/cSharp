@@ -1,0 +1,11 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.1\Ch03_HandlingExceptions.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.1\Ch03_HandlingExceptions.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.1\Ch03_HandlingExceptions.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.1\Ch03_HandlingExceptions.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.1\Ch03_HandlingExceptions.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.1\Ch03_HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.1\Ch03_HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.1\Ch03_HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.1\Ch03_HandlingExceptions.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.1\Ch03_HandlingExceptions.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.1\Ch03_HandlingExceptions.pdb
