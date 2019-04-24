@@ -1,0 +1,14 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.exe
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\bin\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\obj\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\obj\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\obj\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\obj\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\obj\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\Ch03_CheckingForOverflow\obj\Release\netcoreapp2.1\win10-x64\Ch03_CheckingForOverflow.pdb

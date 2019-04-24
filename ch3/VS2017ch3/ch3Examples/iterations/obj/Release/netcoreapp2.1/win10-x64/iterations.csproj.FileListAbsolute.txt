@@ -1,0 +1,14 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\iterations.exe
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\iterations.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\iterations.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\iterations.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\iterations.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\bin\Release\netcoreapp2.1\win10-x64\iterations.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\obj\Release\netcoreapp2.1\win10-x64\iterations.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\obj\Release\netcoreapp2.1\win10-x64\iterations.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\obj\Release\netcoreapp2.1\win10-x64\iterations.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\obj\Release\netcoreapp2.1\win10-x64\iterations.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\obj\Release\netcoreapp2.1\win10-x64\iterations.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\iterations\obj\Release\netcoreapp2.1\win10-x64\iterations.pdb

@@ -1,0 +1,14 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\ForEachEx.exe
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\ForEachEx.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\ForEachEx.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\ForEachEx.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\ForEachEx.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\bin\Release\netcoreapp2.1\win10-x64\ForEachEx.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Release\netcoreapp2.1\win10-x64\ForEachEx.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Release\netcoreapp2.1\win10-x64\ForEachEx.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Release\netcoreapp2.1\win10-x64\ForEachEx.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Release\netcoreapp2.1\win10-x64\ForEachEx.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Release\netcoreapp2.1\win10-x64\ForEachEx.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ForEachEx\obj\Release\netcoreapp2.1\win10-x64\ForEachEx.pdb

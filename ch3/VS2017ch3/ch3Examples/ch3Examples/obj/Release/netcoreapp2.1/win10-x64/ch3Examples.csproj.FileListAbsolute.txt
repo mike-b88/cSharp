@@ -1,0 +1,14 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\ch3Examples.exe
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\ch3Examples.deps.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\ch3Examples.runtimeconfig.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\ch3Examples.runtimeconfig.dev.json
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\ch3Examples.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\bin\Release\netcoreapp2.1\win10-x64\ch3Examples.pdb
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Release\netcoreapp2.1\win10-x64\ch3Examples.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Release\netcoreapp2.1\win10-x64\ch3Examples.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Release\netcoreapp2.1\win10-x64\ch3Examples.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Release\netcoreapp2.1\win10-x64\ch3Examples.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Release\netcoreapp2.1\win10-x64\ch3Examples.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Release\netcoreapp2.1\win10-x64\ch3Examples.pdb

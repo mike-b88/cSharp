@@ -351,6 +351,414 @@
 //
 
 
+//*************************
+//		Design Patterns
+//**************************
+
+
+
+
+
+
+
+//	*************  Explore 3.5 Topics  ****************
+//******************************************************
+
+
+//--------------------------------------------------------------------------------
+// 					Selection Statements (C# reference)							 |
+//--------------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/selection-statements
+
+// A selection statement causes the program control to be transferred to a specific flow based upon 
+// whether a certain condition is true or not
+//
+//Keywords:
+			if  else  switch  case  default 
+
+		if :
+		//	identifies which statement to run based on the value of a Boolean expression. 
+		//Ex:
+				bool condition = true;
+				
+				if (condition)
+				{
+					execute;
+				}
+				else 
+				{
+					execute;
+				}
+	// two forms:
+					//if-else
+				if (condition)
+				{
+					then-statement;
+				}
+				else
+				{
+					else-statement;
+				}
+		
+					// if statement without else
+				if (condition)
+				{
+					then-statement;
+				}					
+				
+//Example:
+			Console.Write("Enter a character: ");
+			char c = (char)Console.Read();			//  https://docs.microsoft.com/en-us/dotnet/api/system.char?view=netframework-4.8
+			if(Char.IsLetter(c))					//	https://docs.microsoft.com/en-us/dotnet/api/system.char.isletter?view=netframework-4.8
+			{
+				if(Char.IsLower(c))
+				{
+					Console.WriteLine("The character is lowercase.");
+				}
+				else
+				{
+					Console.WriteLine("The character is uppercase.");
+				}
+			}
+			else
+			{
+				Console.WriteLine("The character isn't an alphabetic character.");
+			}
+
+// **	You can also nest an if statement inside an else block,
+// **   You can use any valid Boolean expression for the condition 
+// **   You can use logical operators such as !, &&, ||, & | and ^ to make compound conditions.
+
+
+	switch
+//  a selection statement that chooses a single switch section to execute from a list of candidates 
+//  based on a pattern match with the match expression.
+
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/switch
+
+
+// Example:
+				using System;
+				
+				public enum Color {Red, Green, Blue }  // work with enums,  can functions be used ??
+				
+				public class Example
+				{
+					public static void Main()
+					{
+						Color c = (Color) (new Random()).Next(0,3);
+						switch (c)
+						{
+							case Color.Red:
+											Console.WriteLine("The color is red");
+											break;
+						   case Color.Green:
+											Console.WriteLine("The color is green"):
+											break;
+							case Color.Blue:
+											Console.WriteLine("The color is blue");
+											break;
+							default:
+									Console.WriteLine("The color is unknown");
+									break;
+						}
+					}
+				}
+
+// -The match expression - provides the value to match against the patterns in case labels:
+				switch (expr)
+				
+				// match expression must be an expression that returns a value of the following types:
+				char
+				string
+				bool
+	//an integral value, such as an int or a long 
+				enum
+				
+
+
+// -The switch section - includes one or more switch sections. Each switch section contains one or more case 
+//						 labels (either a case or default label) followed by one or more statements.
+//						-No two case labels may contain the same expression
+//						-Only one switch section in a switch statement executes, C# doesn't allow execution 
+//						to continue from one switch section to the next.
+//						- Use the break, goto, or returb statement to exit the switch section 
+				
+				switch (caseSwitch)
+				{
+					case 1:
+							Console.WriteLine("Case 1...");
+							break;
+					case 2:
+					case 3:
+							Console.WriteLine("... and/or Case 2");
+							break;
+					case 4:
+							while(true)
+								Console.WriteLine("Endless looping....");
+					default:
+							Console.WriteLine("Default value..");
+							break;
+					
+					
+				}
+		// A goto statement, if used, must transfer control to a constant label. 
+		
+				
+
+
+
+
+
+
+// -Case labels - Each case label specifies a pattern to compare to the match expression. If they match
+//				  control is transferred to the switch section that contains the first matching case label.
+//         
+//		C# 6: suports only the constant pattern and doesn't allow the repetition of constant values, 
+//			  case labels define mutually exclusive values, and only one pattern can match the expression.
+//          as a result, the order in which case statements appear is unimportant.
+
+//      C# 7: other patterns are supported, case labels need not define mutually exclusive values, and multiple 
+//            patterns can match the match expression.
+//       -- if C# detects a switch section whose case statement or statements are equivalent to or are subsets of previous
+//          statements, it generates a compiler error, CS8120
+//		 
+//	*** Case statements can contain the when keyword, to perform more specific pattern matching. >>> BOTH TRUE
+//
+
+
+
+
+
+
+// -the default case 
+
+// -Pattern matching with the switch statement - Each case statement defines a pattern that, if it matches the 
+//   											 match expression, causes its containing switch section to be 
+//												 executed. All versions of C# support the constant pattern
+//      ** Constant pattern:
+//							Tests whether the match expression equals a specified constant:
+						case constant:
+//										-A bool literal, true or false 
+//										-any integral constant, int long, byte, 
+//										-name of a declared const variable 
+//										-an enumeration constant
+//								   		-a char literal 
+//										- a string literal
+//						
+//	   ** Type Pattern:
+//						Enables concise type evaluation and conversion. When used with the switch 
+//					    statement to perform pattern matching, it tests whether an expression can be converted
+//						to a specified type, and, if it can be, casts it to a variable of that type
+
+					case type varname
+					
+	// type is the name of the type to which the result of expr is to be converted, 
+	// varname is the object to which the result of expr is converted if the match succeeds.
+	// The compile-time type of expr may be a generic type parameter.
+	
+//  The case expression is true if any of the following is true:
+//				- expr is an instance of the same type as type 
+//              - expr is an instance of type that derives from type.
+//				- expr has a compile-time type that is base class of type, and expr has runtime type
+//       		  that is type or is derived from type. 
+//
+//
+//
+//	
+//
+//
+
+
+
+
+
+
+
+
+//---------------------------------------------------------------------------------------
+//		Iteration Statements
+//----------------------------------------------------------------------------------------
+//
+//	*** Create loops using iteration statements, 
+//  *** Cause embedded statements to be executed a number of times, subject to the loop-termination criteria.
+//	*** Statements are executed in order, except when a jump statement is encountered 
+
+		do     for   		foreach,in    		while 
+//
+// do: executes a statement or a block of statements while a specified Boolean expression evaluates
+//     to true.
+//     
+//		- The expression is evaluated after each execution of the loop, a do-while 
+//        loop executes one or more times. This differs from the while loop, which 
+//        executes zero or more times. 
+//
+//      - At any point within the do statement block, you can break  out the loop by using 
+//        the break statement. 
+//
+//      -- You can step directly to the evaluation of the while expression by using the continue 
+//  	    statement. If the expression evaluates to true, execution continues at the first 
+//			statement in the loop. 
+//
+// for: executes a statement or a block of statements while a specified Boolean expresison evaluates to true
+//		-can break out of the loop by using the break statement, or step to the next iteration in the loop
+//		 by using the continue statement. Can also exit a for loop by the goto, return, or throw statements.
+
+//******* Structure of the for statement*********
+//***********************************************
+//	The for statement deinfes initializer, condition, and iterator sections
+//
+//
+//Example:
+			int i;
+			int j = 10;
+			for (i = 0, Console.WriteLine($"Start: i={i}, j={j}"); i < j; i++, j--, Console.WriteLine($"Step: i={i}, j={j}")
+				{
+					//Body of loop
+				}
+			
+			
+	
+// foreach: executes a statement or a block of statements for each element in an instance of the type
+//		    that implements the System.Collections.IEnumerable or System.Collections.Generic.IEnumerable<T> interface.
+//      
+//
+			https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/foreach-in
+	
+	//Read the above after understanding methods, such as GetEnumerator, and methods that return a type of
+	// class, struct or interface.
+
+	//
+
+//
+
+//--------------------------------------------------------
+//			 Jump Statements							 |
+//--------------------------------------------------------
+// Branching is performed using jump statements, which cause an immediate transfer of the 
+// program control.
+					// Keywords:
+		break      continue      goto    return     throw  
+
+
+
+
+		
+		
+		
+		
+		
+		return :
+			//  terminates execution of the method in which it appears and returns contnrol to the calling 
+			//  method. It can also return an optional value. If the method is a void type, the return statement
+			//  can be omitted.
+			
+			//If the return statement is inside a try block, the finally block, if one exists, will be executed before 
+			// control returns to the calling method.
+//
+//
+//---------------------------------------------------------------------
+//		Casting and Type Conversions
+//---------------------------------------------------------------------
+//
+//	-Since C# is statically-typed at compile time, after a variable is declared, it cannot be 
+//   declared again or assigned a value of another type unless that type is implicitly convertible to the 
+//   variable's type. 
+//
+//  *** Type conversions:   - Implicit conversions:  NO special syntax is required because the conversion is type safe 
+//								and no data will be lost.
+//     				Such as conversion from derived classes to base classes....
+
+//							- Explicit conversions (casts): Require a cast operator. Casting is required when 
+//														information might be lost in the conversion.
+//							Such as a conversion of a base-class instannce to a derived class.
+//
+//							- User-defined conversions: performed by special methods that you can define to enable 
+//												explicit and implicit conversions between custom types that do not have
+//											    a base class-derived class relationship.----> Conversion Operators.
+//
+//
+//							- Conversions with helper classes: Convert between non-compatible types, 
+//
+				https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/casting-and-type-conversions
+				
+//
+//
+//
+//
+//----------------------------------------------------------------------
+//  			Exception Handling Statements
+//----------------------------------------------------------------------
+//		*throw    *try-catch    *try-finally    *try-catch-finally
+
+//			**********************
+					throw
+//			**********************
+//  -signals the occurance of an exception during program execution
+
+		throw [e]
+//
+// e is an instance of a class derived from System.Exception
+
+https://docs.microsoft.com/en-us/dotnet/api/system.exception?view=netframework-4.8
+
+//		
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//--------------------------------------------------
+//				Design Patterns
+//--------------------------------------------------
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//----------------------------------------------------
+//				patterns & practices
+//----------------------------------------------------
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

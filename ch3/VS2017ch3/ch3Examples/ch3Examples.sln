@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEachEx", "ForEachEx\ForE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch03_HandlingExceptions", "Ch03_HandlingExceptions\Ch03_HandlingExceptions.csproj", "{104F8F8D-8356-4D69-97EE-C3CA4A58C94D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch03_CheckingForOverflow", "Ch03_CheckingForOverflow\Ch03_CheckingForOverflow.csproj", "{15983FFF-5544-40FF-9D06-989D7DF7A504}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch03_CheckingForOverflow", "Ch03_CheckingForOverflow\Ch03_CheckingForOverflow.csproj", "{15983FFF-5544-40FF-9D06-989D7DF7A504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch03_FizzBuzz", "ch03_FizzBuzz\ch03_FizzBuzz.csproj", "{BC5EE230-541E-4FF6-915E-CA3722B68A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ch03_FizzBuzz", "ch03_FizzBuzz\ch03_FizzBuzz.csproj", "{BC5EE230-541E-4FF6-915E-CA3722B68A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch03_Ex3.4", "ch03_Ex3.4\ch03_Ex3.4.csproj", "{0CBB556F-33E4-4856-A417-CE83E76316BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{BC5EE230-541E-4FF6-915E-CA3722B68A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5EE230-541E-4FF6-915E-CA3722B68A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5EE230-541E-4FF6-915E-CA3722B68A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBB556F-33E4-4856-A417-CE83E76316BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBB556F-33E4-4856-A417-CE83E76316BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBB556F-33E4-4856-A417-CE83E76316BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBB556F-33E4-4856-A417-CE83E76316BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
