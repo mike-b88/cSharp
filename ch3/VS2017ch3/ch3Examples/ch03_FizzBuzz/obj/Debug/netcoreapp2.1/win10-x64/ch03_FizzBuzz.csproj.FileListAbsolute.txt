@@ -1,0 +1,6 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch03_FizzBuzz\obj\Debug\netcoreapp2.1\win10-x64\ch03_FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch03_FizzBuzz\obj\Debug\netcoreapp2.1\win10-x64\ch03_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch03_FizzBuzz\obj\Debug\netcoreapp2.1\win10-x64\ch03_FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch03_FizzBuzz\obj\Debug\netcoreapp2.1\win10-x64\ch03_FizzBuzz.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch03_FizzBuzz\obj\Debug\netcoreapp2.1\win10-x64\ch03_FizzBuzz.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch03_FizzBuzz\obj\Debug\netcoreapp2.1\win10-x64\ch03_FizzBuzz.pdb

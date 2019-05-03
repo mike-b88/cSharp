@@ -1,0 +1,6 @@
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\win10-x64\ch3Examples.csprojAssemblyReference.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\win10-x64\ch3Examples.csproj.CoreCompileInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\win10-x64\ch3Examples.AssemblyInfoInputs.cache
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\win10-x64\ch3Examples.AssemblyInfo.cs
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\win10-x64\ch3Examples.dll
+C:\Users\Brown\Source\Repos\cSharp\Packt\hub\ch2\ex1\ch3\VS2017ch3\ch3Examples\ch3Examples\obj\Debug\netcoreapp2.1\win10-x64\ch3Examples.pdb

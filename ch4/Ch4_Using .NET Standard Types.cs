@@ -1,5 +1,7 @@
-/*	*****	Chapter 4 **********
-********************************
+/*	
+
+		*****	Chapter 4 **********
+	  ********************************
 	-- Using .NET Standard Types --
 	------------------------------
 The Chapter is about .NET Standard 1.6 types that are included with 
@@ -20,5 +22,7 @@ My current version of dotnet core is Version: 2.1.504
 						  
 	.Net Core runtimes installed:
 
+	
+	test change
 
 */
