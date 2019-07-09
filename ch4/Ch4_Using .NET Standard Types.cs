@@ -23,6 +23,3 @@ My current version of dotnet core is Version: 2.1.504
 	.Net Core runtimes installed:
 
 	
-	test change
-
-*/
